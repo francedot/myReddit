@@ -4,11 +4,12 @@ A simple client app for Reddit developed using Xamarin.Forms (iOS, Android) and 
 
 *Authors: Francesco Bonacci*
 
-![UWP](/Images/UWP.png)
-![iOS](/Images/iOS.png)
-![Android](/Images/Android.png)
-
 ## Android Screenshots
-
+![Android Menu](/Images/Android Menu.png)
+![Android Post List](/Images/Android Post List.png)
+![Android Post Detail](/Images/Android Post Detail)
 
 ## iOS Screenshots
+![iOS Menu](/Images/iOS Menu.png)
+![iOS Post List](/Images/iOS Post List.png)
+![iOS Post Detail](/Images/iOS Post Detail)
