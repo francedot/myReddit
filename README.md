@@ -8,4 +8,7 @@ A simple client app for Reddit developed using Xamarin.Forms (iOS, Android) and 
 ![iOS](/Images/iOS.png)
 ![Android](/Images/Android.png)
 
-## Usage Example
+## Android Screenshots
+
+
+## iOS Screenshots
