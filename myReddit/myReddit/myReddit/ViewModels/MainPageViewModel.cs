@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace myReddit.ViewModels
+namespace MyReddit.ViewModels
 {
     public class MainPageViewModel : BindableBase
     {

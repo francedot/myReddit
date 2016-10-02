@@ -6,9 +6,10 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-using myReddit.Droid.Renderers;
+using MyReddit.Droid.Renderers;
+using myReddit.Droid;
 
-namespace myReddit.Droid
+namespace MyReddit.Droid
 {
     [Activity(Label = "myReddit", Icon = "@drawable/icon", Theme = "@style/AppTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

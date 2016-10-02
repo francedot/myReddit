@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ViewCell x:Class="myReddit.Cells.PostCell"
+<ViewCell x:Class="MyReddit.Cells.PostCell"
           xmlns="http://xamarin.com/schemas/2014/forms"
           xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
           xmlns:abstractions="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin.Abstractions"
-          xmlns:controls="clr-namespace:myReddit.Controls;assembly=myReddit">
+          xmlns:controls="clr-namespace:MyReddit.Controls;assembly=myReddit"
+          xmlns:helpers="clr-namespace:myReddit.Helpers;assembly=myReddit">
     <ViewCell.View>
         <!--  BackgroundColor="#DFDFDF"  -->
         <ContentView Padding="10">
@@ -36,16 +37,16 @@
                                                   BorderThickness="2"
                                                   Source="{StaticResource AvatarPlaceholder}">
                             <abstractions:CircleImage.WidthRequest>
-                                <OnPlatform x:TypeArguments="x:Double"
-                                            Android="45"
-                                            WinPhone="75"
-                                            iOS="55" />
+                                <helpers:OnPlatform2 x:TypeArguments="x:Double"
+                                                     Android="45"
+                                                     Windows="45"
+                                                     iOS="55" />
                             </abstractions:CircleImage.WidthRequest>
                             <abstractions:CircleImage.HeightRequest>
-                                <OnPlatform x:TypeArguments="x:Double"
-                                            Android="45"
-                                            WinPhone="75"
-                                            iOS="55" />
+                                <helpers:OnPlatform2 x:TypeArguments="x:Double"
+                                                     Android="45"
+                                                     Windows="45"
+                                                     iOS="55" />
                             </abstractions:CircleImage.HeightRequest>
                         </abstractions:CircleImage>
 
@@ -56,9 +57,10 @@
                                TranslationY="0"
                                VerticalTextAlignment="Center">
                             <Label.TranslationX>
-                                <OnPlatform x:TypeArguments="x:Double"
-                                            Android="55"
-                                            iOS="60" />
+                                <helpers:OnPlatform2 x:TypeArguments="x:Double"
+                                                     Android="55"
+                                                     Windows="55"
+                                                     iOS="60" />
                             </Label.TranslationX>
                         </Label>
                     </AbsoluteLayout>
@@ -75,7 +77,8 @@
                                VerticalOptions="StartAndExpand" />
 
                         <!--  Card title  -->
-                        <Label Text="{Binding Title}"
+                        <Label HeightRequest="40"
+                               Text="{Binding Title}"
                                TextColor="White"
                                VerticalOptions="FillAndExpand" />
 
@@ -85,7 +88,7 @@
                     <StackLayout Grid.Row="2"
                                  Orientation="Horizontal"
                                  Padding="0,10,0,0"
-                                 Spacing="0"
+                                 Spacing="2"
                                  VerticalOptions="End">
 
                         <!--  Article section  -->

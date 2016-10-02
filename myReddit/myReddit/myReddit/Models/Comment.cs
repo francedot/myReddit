@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace myReddit.Models
+namespace MyReddit.Models
 {
     public class Comment
     {

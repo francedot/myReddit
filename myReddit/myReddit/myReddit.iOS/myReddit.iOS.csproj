@@ -190,12 +190,6 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\myReddit\myReddit.csproj">
-      <Project>{1aefc27d-9b0b-4811-966b-3415c2e2b69f}</Project>
-      <Name>myReddit</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\Placeholder%402x.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -212,6 +206,12 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\hamburguer_icon%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\myReddit\myReddit.csproj">
+      <Project>{d0b69c8d-7807-47b0-acfb-f603b9ac3d39}</Project>
+      <Name>myReddit</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.3.2.127\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.3.2.127\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />

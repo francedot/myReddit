@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace myReddit.Views
+namespace MyReddit.Views
 {
     public partial class MainPage : ContentPage
     {

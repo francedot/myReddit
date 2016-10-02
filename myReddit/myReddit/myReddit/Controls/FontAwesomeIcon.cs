@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace myReddit.Controls
+namespace MyReddit.Controls
 {
     public class FontAwesomeIcon : Label
     {

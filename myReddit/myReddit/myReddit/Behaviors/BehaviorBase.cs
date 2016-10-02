@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace myReddit.Behaviors
+namespace MyReddit.Behaviors
 {
     public class BehaviorBase<T> : Behavior<T> where T : BindableObject
     {

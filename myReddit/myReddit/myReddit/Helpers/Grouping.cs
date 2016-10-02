@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace myReddit.Helpers
+namespace MyReddit.Helpers
 {
     public class Grouping<K, T> : ObservableCollection<T>
     {

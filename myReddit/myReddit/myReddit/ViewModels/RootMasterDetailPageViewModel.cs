@@ -1,14 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using myReddit.Helpers;
-using myReddit.Models;
-using myReddit.Navigation;
-using myReddit.Services;
+using MyReddit.Helpers;
+using MyReddit.Models;
+using MyReddit.Navigation;
+using MyReddit.Services;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
 
-namespace myReddit.ViewModels
+namespace MyReddit.ViewModels
 {
 public class RootMasterDetailPageViewModel : BindableBase, INavigationAware
 {

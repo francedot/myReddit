@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using myReddit.Models;
+using MyReddit.Models;
 
-namespace myReddit.Services
+namespace MyReddit.Services
 {
 public interface IRedditApiSource
 {

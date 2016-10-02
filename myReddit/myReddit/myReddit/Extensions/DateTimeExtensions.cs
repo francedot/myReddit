@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace myReddit.Extensions
+namespace MyReddit.Extensions
 {
     public static class DateTimeExtensions
     {

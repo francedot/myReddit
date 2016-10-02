@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Globalization;
 using Xamarin.Forms;
 
-namespace myReddit.Converters
+namespace MyReddit.Converters
 {
     public class DummyConverter : IValueConverter
     {

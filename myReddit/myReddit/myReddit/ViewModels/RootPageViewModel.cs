@@ -1,6 +1,6 @@
 ﻿using Prism.Mvvm;
 
-namespace myReddit.ViewModels
+namespace MyReddit.ViewModels
 {
     public class RootPageViewModel : BindableBase
     {

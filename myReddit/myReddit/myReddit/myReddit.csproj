@@ -63,6 +63,7 @@
     <Compile Include="Converters\SelectedItemConverter.cs" />
     <Compile Include="Extensions\DateTimeExtensions.cs" />
     <Compile Include="Helpers\Grouping.cs" />
+    <Compile Include="Helpers\OnPlatform2.cs" />
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Post.cs" />
     <Compile Include="Models\SubReddit.cs" />

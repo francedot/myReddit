@@ -1,11 +1,11 @@
-myReddit.Droid.MainActivity, myReddit.Droid;md551f267c51ff495bf208aba7a3154af10.MainActivity
-myReddit.Droid.MainActivity, myReddit.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md551f267c51ff495bf208aba7a3154af10.MainActivity
-myReddit.Droid.MainActivity;md551f267c51ff495bf208aba7a3154af10.MainActivity
-myreddit.droid.MainActivity;md551f267c51ff495bf208aba7a3154af10.MainActivity
-myReddit.Droid.Renderers.FontAwesomeIconRenderer, myReddit.Droid;md521607f9e46f9801a465bc4ec2dc64e4c.FontAwesomeIconRenderer
-myReddit.Droid.Renderers.FontAwesomeIconRenderer, myReddit.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md521607f9e46f9801a465bc4ec2dc64e4c.FontAwesomeIconRenderer
-myReddit.Droid.Renderers.FontAwesomeIconRenderer;md521607f9e46f9801a465bc4ec2dc64e4c.FontAwesomeIconRenderer
-myreddit.droid.renderers.FontAwesomeIconRenderer;md521607f9e46f9801a465bc4ec2dc64e4c.FontAwesomeIconRenderer
+MyReddit.Droid.MainActivity, myReddit.Droid;md5b9c1f3717f9fb1a1715d2b0fa53f00de.MainActivity
+MyReddit.Droid.MainActivity, myReddit.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b9c1f3717f9fb1a1715d2b0fa53f00de.MainActivity
+MyReddit.Droid.MainActivity;md5b9c1f3717f9fb1a1715d2b0fa53f00de.MainActivity
+myreddit.droid.MainActivity;md5b9c1f3717f9fb1a1715d2b0fa53f00de.MainActivity
+MyReddit.Droid.Renderers.FontAwesomeIconRenderer, myReddit.Droid;md53e656cd34970bbd946756d7c4d89e824.FontAwesomeIconRenderer
+MyReddit.Droid.Renderers.FontAwesomeIconRenderer, myReddit.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53e656cd34970bbd946756d7c4d89e824.FontAwesomeIconRenderer
+MyReddit.Droid.Renderers.FontAwesomeIconRenderer;md53e656cd34970bbd946756d7c4d89e824.FontAwesomeIconRenderer
+myreddit.droid.renderers.FontAwesomeIconRenderer;md53e656cd34970bbd946756d7c4d89e824.FontAwesomeIconRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin.Android;md52c2a61d8deb1f49fcf6497b6269d54e8.ImageCircleRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin.Android, Version=1.6.1.0, Culture=neutral, PublicKeyToken=null;md52c2a61d8deb1f49fcf6497b6269d54e8.ImageCircleRenderer
 ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer;md52c2a61d8deb1f49fcf6497b6269d54e8.ImageCircleRenderer

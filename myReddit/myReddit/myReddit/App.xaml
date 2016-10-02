@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<unity:PrismApplication x:Class="myReddit.App"
+<unity:PrismApplication x:Class="MyReddit.App"
                         xmlns="http://xamarin.com/schemas/2014/forms"
                         xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-                        xmlns:converters="clr-namespace:myReddit.Converters;assembly=myReddit"
+                        xmlns:converters="clr-namespace:MyReddit.Converters;assembly=myReddit"
                         xmlns:unity="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms">
     <unity:PrismApplication.Resources>
         <ResourceDictionary>
@@ -58,9 +58,10 @@
             <Color x:Key="CategoryColor1">#FF0000</Color>
             <Color x:Key="ListViewItemTextColor">#FF212121</Color>
 
-            <FileImageSource x:Key="RedditLogo" File="RedditLogo.png" />
+            <FileImageSource x:Key="RedditLogo" File="Assets/RedditLogo.png" />
             <FileImageSource x:Key="HamburguerIcon" File="hamburguer_icon.png" />
-            <FileImageSource x:Key="AvatarPlaceholder" File="AvatarPlaceholder.jpg" />
+            <FileImageSource x:Key="AvatarPlaceholder" File="Assets/AvatarPlaceholder.jpg" />
+            <FileImageSource x:Key="Placeholder" File="Assets/Placeholder.jpg" />
 
             <Style x:Key="AppNameStyle" TargetType="Label">
                 <Setter Property="FontSize">

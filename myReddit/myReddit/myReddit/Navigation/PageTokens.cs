@@ -1,4 +1,4 @@
-﻿namespace myReddit.Navigation
+﻿namespace MyReddit.Navigation
 {
     public static class PageTokens
     {

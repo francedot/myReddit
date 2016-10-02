@@ -1,12 +1,12 @@
-﻿using myReddit.Navigation;
-using myReddit.Services;
-//using myReddit.Services;
-using myReddit.Views;
+﻿//using myReddit.Services;
 using Microsoft.Practices.Unity;
+using MyReddit.Navigation;
+using MyReddit.Services;
+using MyReddit.Views;
 using Prism.Unity;
 using Xamarin.Forms;
 
-namespace myReddit
+namespace MyReddit
 {
     public partial class App : PrismApplication
     {

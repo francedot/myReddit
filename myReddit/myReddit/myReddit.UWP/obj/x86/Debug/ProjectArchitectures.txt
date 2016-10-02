@@ -1,0 +1,2 @@
+C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit.UWP\myReddit.UWP.csproj;x86
+C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\myReddit.csproj;neutral

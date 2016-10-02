@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace myReddit.Views {
+namespace MyReddit.Views {
     using System;
     using Xamarin.Forms;
     using Xamarin.Forms.Xaml;

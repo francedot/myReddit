@@ -40,5 +40,3 @@ C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\obj\Debug\my
 C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\obj\Debug\myReddit.Views.RootMasterDetailPage.xaml.g.cs
 C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\obj\Debug\myReddit.Views.RootNavigationPage.xaml.g.cs
 C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\obj\Debug\myReddit.Views.SubredditsMenuPage.xaml.g.cs
-C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\obj\Debug\myReddit.dll.mdb
-C:\Users\Francesco\Source\Repos\myReddit\myReddit\myReddit\myReddit\bin\Debug\myReddit.dll.mdb

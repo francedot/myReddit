@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.iOS;
 
-namespace myReddit.iOS
+namespace MyReddit.iOS
 {
 	public static class Appearance
 	{

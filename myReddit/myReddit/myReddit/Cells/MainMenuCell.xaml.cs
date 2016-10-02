@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace myReddit.Cells
+namespace MyReddit.Cells
 {
     public partial class MainMenuCell : ViewCell
     {

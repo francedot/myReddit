@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using myReddit.Extensions;
-using myReddit.Models;
+using MyReddit.Extensions;
+using MyReddit.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Newtonsoft.Json.Serialization;
 
-namespace myReddit.Services
+namespace MyReddit.Services
 {
     public class RedditApiSource : IRedditApiSource
     {
@@ -123,7 +123,7 @@ namespace myReddit.Services
             var thumbnailUri = dataProperty["thumbnail"].ToString();
             if (string.IsNullOrEmpty(thumbnailUri) || thumbnailUri.Trim() == "self")
             {
-                thumbnailUri = "Placeholder.jpg";
+                thumbnailUri = "Assets/Placeholder.jpg";
             }
 
             return new Post()

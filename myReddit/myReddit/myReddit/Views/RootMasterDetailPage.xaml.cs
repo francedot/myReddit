@@ -1,7 +1,7 @@
 ﻿using Prism.Navigation;
 using Xamarin.Forms;
 
-namespace myReddit.Views
+namespace MyReddit.Views
 {
     public partial class RootMasterDetailPage : MasterDetailPage, IMasterDetailPageOptions
     {

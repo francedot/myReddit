@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
-using myReddit.Models;
-using myReddit.Navigation;
-using myReddit.Services;
+using MyReddit.Models;
+using MyReddit.Navigation;
+using MyReddit.Services;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
 
-namespace myReddit.ViewModels
+namespace MyReddit.ViewModels
 {
     public class PostsPageViewModel : BindableBase, INavigationAware
     {

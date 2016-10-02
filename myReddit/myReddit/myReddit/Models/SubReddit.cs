@@ -1,4 +1,4 @@
-﻿namespace myReddit.Models
+﻿namespace MyReddit.Models
 {
     public class Subreddit
     {

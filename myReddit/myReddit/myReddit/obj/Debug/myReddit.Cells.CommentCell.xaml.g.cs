@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace myReddit.Cells {
+namespace MyReddit.Cells {
     using System;
     using Xamarin.Forms;
     using Xamarin.Forms.Xaml;
